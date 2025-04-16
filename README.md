@@ -19,3 +19,4 @@
 5. **Conditional Logic**:
    - The use of Python's `if` statement to determine the output based on the prediction made by the model indicates standard Python control flow.
 
+[![Watch the video](https://img.youtube.com/vi/35U4Pn1ZWrI/0.jpg)](https://youtu.be/35U4Pn1ZWrI)
